@@ -4,11 +4,11 @@
 
 1. Склонируйте репозиторий:
 
-   ```sh
-   git clone https://github.com/ваш-пользователь/ваш-репозиторий.git
-   cd ваш-репозиторий
+```sh
+git clone https://github.com/maky3/texZadanie
+cd texZadanie
 
 2. Развернуть проект можно с помощью:
 
  ```sh
-   docker compose up --build
+ docker compose up --build
