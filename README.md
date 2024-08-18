@@ -3,9 +3,12 @@
 ## Установка
 
 1. Склонируйте репозиторий:
+
    ```sh
    git clone https://github.com/ваш-пользователь/ваш-репозиторий.git
    cd ваш-репозиторий
 
 2. Развернуть проект можно с помощью:
- ```docker compose up --build
+
+ ```sh
+   docker compose up --build
